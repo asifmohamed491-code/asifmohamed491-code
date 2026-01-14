@@ -1,6 +1,6 @@
 <!-- Intro Typing Effect -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Asif;Student+%7C+FULL+Stack+%7C+Web+Dev+%7C+MERN+;Always+learning+,+Always+Growing+%F0%9F%8C%B1"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24C8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Asif;Student+%7C+FULL+Stack+%7C+Web+Dev+%7C+MERN+;Always+learning+,+Always+Growing+%F0%9F%8C%B1"
         alt="Typing SVG" />
 </h1>
 
@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-faaris/Mohamed-faaris/output/snake.svg" alt="Snake animation">
+  <img src="https://github.com/asifmohamed491-code/asifmohamed491-code/blob/output/github-snake-dark.svg">
 </div>
 
 
