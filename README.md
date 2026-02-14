@@ -1,4 +1,12 @@
 <!-- Intro Typing Effect -->
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:4F46E5,100:9333EA&height=240&section=header&text=ASIF&fontSize=80&fontColor=E0E7FF&animation=twinkling&fontAlignY=40&font=Orbitron&desc=Full%20Stack%20Developer&descAlignY=65&descAlign=50&descSize=20"/>
+
+</p>
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24C8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Asif;Student+%7C+FULL+Stack+%7C+Web+Dev+%7C+MERN+;Always+learning+,+Always+Growing+%F0%9F%8C%B1"
         alt="Typing SVG" />
@@ -44,17 +52,57 @@
 
 ---
 
-## 🚀 Skills & Tools
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img src="https://img.shields.io/badge/Node.js-4E7D30?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4FAA41"/>
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+## 🛠️ Tech Stack & Expertise
 
-</p>
+<div align="center">
+    
+### 🖥️ Programming Languages
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
+
+---
+
+
+### 🚀 Frontend Technologies
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+</div>
+
+---
+
+
+### 🔧 Backend & Databases
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+   <img src="https://img.shields.io/badge/Node.js-4E7D30?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4FAA41"/>
+  
+</div>
+
+---
+
+### 🛠️ Tools & Platforms
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="28"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logoColor=white"/>
+<p align="left">
+</div>
+
+</div>
 
 ---
 
@@ -66,5 +114,33 @@
   <img src="https://github.com/asifmohamed491-code/asifmohamed491-code/blob/output/github-snake-dark.svg">
 </div>
 
+---
+<!-- ================= CTA ================= -->
+<div align="center">
+<svg width="600" height="90">
+  <text x="50%" y="50%" text-anchor="middle"
+        fill="#00F7FF" font-size="28" font-weight="900">
+    Building The Future With Code 🚀
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      from="1"
+      to="1.06"
+      dur="1.2s"
+      repeatCount="indefinite"
+      direction="alternate"/>
+  </text>
+</svg>
+</div>
 
-###
+---
+
+<div align="center">
+Made with ❤️ by <b>Asif</b> • © 2026  
+⭐ Star & follow if you like this profile ⭐
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer"/>
+</p>
+
