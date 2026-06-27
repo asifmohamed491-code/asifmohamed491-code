@@ -11,21 +11,27 @@
 ---
 
 <table align="center">
-  <tr>
-    <td width="48%" align="center">
-          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWUza3htd24yNmtwNDEwYmZvc2NoaGltb2Qzc283ZWFsNjN4NmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-    </td>
-    <td width="52%" align="left">
-      <h2>👨‍💻 About Me</h2>
+<tr>
+<td align="center" valign="middle">
 
-- 🎓 &nbsp; A student and web developer who loves learning something new every day
-- 💻 &nbsp; Interested in Web Development, JavaScript, and building useful projects
-- 🚀 &nbsp; Enjoy exploring tech and improving my skills step by step
-- 🌱 &nbsp; Believe in growing through consistency and daily learning
-- 📫 &nbsp; Reach me at: [asifmohamed491@gmail.com](mailto:asifmohamed491@gmail.com)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWUza3htd24yNmtwNDEwYmZvc2NoaGltb2Qzc283ZWFsNjN4NmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width='260'/>
 
-    </td>
-  </tr>
+</td>
+
+<td valign="top">
+
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+<li>🎓 Student & Web Developer</li>
+<li>💻 Passionate about Web Development</li>
+<li>🚀 MERN Stack Developer</li>
+<li>🌱 Always Learning</li>
+<li>📫 asifmohamed491@gmail.com</li>
+</ul>
+
+</td>
+</tr>
 </table>
 
 <br/>
