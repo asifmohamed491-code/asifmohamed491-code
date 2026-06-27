@@ -111,8 +111,8 @@
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="28"/>
     <img src="https://img.shields.io/badge/Thunder%20Client-5C2D91?style=for-the-badge&logo=thunderstore&logoColor=white" alt="Thunder Client"/>
+    <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="28"/>
 <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
