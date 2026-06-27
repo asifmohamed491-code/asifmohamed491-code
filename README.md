@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td width="48%" align="center">
-          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE1ZDIzMjZyMTFvc3o2bTZzNHprdnQ4cGJ1em1pb3hpeXJndzF0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"/>
+          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWUza3htd24yNmtwNDEwYmZvc2NoaGltb2Qzc283ZWFsNjN4NmQ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
     </td>
     <td width="52%" align="left">
       <h2>👨‍💻 About Me</h2>
